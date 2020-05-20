@@ -1,3 +1,3 @@
-### Sinav Sorum
+## Sinav Sorum
 
-###### Algoritma ve Programlama 2 sınav sorum.
+#### Algoritma ve Programlama 2 sınav sorum.
